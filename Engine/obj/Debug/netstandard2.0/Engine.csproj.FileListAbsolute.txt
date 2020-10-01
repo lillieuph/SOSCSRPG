@@ -1,0 +1,9 @@
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\bin\Debug\netstandard2.0\Engine.dll
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.dll
+D:\Desktop\Coding Projects\SOSCSRPG\Engine\obj\Debug\netstandard2.0\Engine.pdb
